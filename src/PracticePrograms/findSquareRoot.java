@@ -2,7 +2,7 @@ package PracticePrograms;
 
 import java.util.Scanner;
 
-public class checkNumberIsPrime {
+public class findSquareRoot {
 
 	public static void main(String[] args) {
 
